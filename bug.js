@@ -1,0 +1,1 @@
+This error occurs when using Tailwind CSS with a framework like Next.js or Nuxt.js, when you try to apply Tailwind classes to an element that is not rendered on the client-side. This can happen if you try to conditionally render the element based on a variable that is only available on the server-side.
